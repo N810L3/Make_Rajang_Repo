@@ -72,8 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Destiny_Clone/DerivedDataCache/*
-Destiny_Clone/Build/*
-Destiny_Clone/Saved/*
-Destiny_Clone/Script/*
-Destiny_Clone/Intermediate/*
+Cyber_20s/DerivedDataCache/*
+Cyber_20s/Build/*
+Cyber_20s/Saved/*
+Cyber_20s/Script/*
+Cyber_20s/Intermediate/*
